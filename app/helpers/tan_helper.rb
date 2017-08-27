@@ -1,0 +1,2 @@
+module TanHelper
+end
